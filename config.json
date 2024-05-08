@@ -1,0 +1,33 @@
+{
+  "database_name": "TanwayDataBase.mdb",
+  "model_name": "大类名称",
+  "table_field": {
+    "[ID]": "AUTOINCREMENT",
+    "[Part Number]": "text",
+    "[Part Type]": "text",
+    "[Manufacturer Part Number]": "text",
+    "[Value]": "text",
+    "[Description]": "text",
+    "[Manufacturer]": "text",
+    "[Datasheet]": "text",
+    "[PCB Footprint]": "text",
+    "[Schematic Part]": "text",
+    "[更新人]": "text",
+    "[更新时间]": "DATETIME",
+    "[状态]": "text"
+  },
+  "field_dict": {
+    "Part Number": "零部件编码-end",
+    "Part Type": "小类名称",
+    "Manufacturer Part Number": "供应商物料编码",
+    "Value": "值",
+    "Description": "器件描述",
+    "Manufacturer": "制造商",
+    "Datasheet": "Datasheet",
+    "PCB Footprint": "封装",
+    "Schematic Part": "Schematic Part",
+    "更新人": "申请人",
+    "更新时间": "最后更新时间",
+    "状态": ""
+  }
+}
